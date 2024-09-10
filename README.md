@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/thephilosophicalrapper"><img src="https://api.daily.dev/devcards/v2/8fVmxGV5dHsBa48ICYNyk.png?type=default&r=4gp" width="356" alt="Arjun's Dev Card"/></a>
 
 <!--
 **ArjunProh1t/ArjunProh1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
